@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398731384220",
+    "project_id": "leavsy-fda3d",
+    "storage_bucket": "leavsy-fda3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398731384220:android:31f0b5f9d6cace46586459",
+        "android_client_info": {
+          "package_name": "com.example.liveasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398731384220-h16ngtorgq5c4hvl28sn652qij71dra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuRvcpTFNKS3Y5N67YYMBIyR54gWvhFbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398731384220-h16ngtorgq5c4hvl28sn652qij71dra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
